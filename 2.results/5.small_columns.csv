@@ -1,0 +1,2 @@
+genes,var_type,vcf_filter,vcf_mutect,cosmic_haem,length,retain_discard
+DNMT3A,indel,PASS,4.0,3.0,0,Retain

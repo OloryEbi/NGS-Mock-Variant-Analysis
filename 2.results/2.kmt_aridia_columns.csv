@@ -1,0 +1,17 @@
+genes,vaf,retain_discard
+ARID1A,0.599,Retain
+KMT2C,0.03,Retain
+KMT2C,0.296,Discard
+KMT2C,0.044,Retain
+KMT2C,0.315,Retain
+KMT2C,0.856,Retain
+KMT2C,0.879,Retain
+ARID1A,0.041,Discard
+ARID1A,0.234,Retain
+ARID1A,0.294,Retain
+KMT2C,0.801,Discard
+KMT2C,0.233,Discard
+ARID1A,0.631,Retain
+ARID1A,0.811,Retain
+ARID1A,0.101,Retain
+KMT2C,0.892,Retain

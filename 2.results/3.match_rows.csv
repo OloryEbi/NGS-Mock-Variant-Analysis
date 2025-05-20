@@ -1,0 +1,1 @@
+sample_id,variants,genes,cNomen,pNomen,run,vaf,depth,vcf_mutect,vcf_pindel,variant_caller,vcf_filter,panel,virtual_panel,gnomAD_AF,gnomAD_AF_Pct,cosmic_id,cosmic_haem,run_freq,total_freq,length,var_type,technical_status,retain_discard,status_match

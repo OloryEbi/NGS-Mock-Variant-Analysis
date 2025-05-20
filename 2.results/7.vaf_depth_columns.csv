@@ -1,0 +1,7 @@
+genes,vaf,depth,length,retain_discard
+KMT2C,0.03,279.0,0,Retain
+KMT2C,0.044,132.0,0,Retain
+ASXL1,0.015,485.0,0,Retain
+CHEK2,0.035,204.0,0,Discard
+ARID1A,0.041,476.0,0,Discard
+BRCA2,0.017,291.0,0,Discard

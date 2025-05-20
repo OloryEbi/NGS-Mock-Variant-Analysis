@@ -1,6 +1,9 @@
 # NGS Variant Filtration, Classification and Validation Pipeline
 A rule-based genomic variant analysis pipeline designed for somatic variant prioritization, classification validation and quality control in cancer bioinformatics workflows.  
-![54fbdcd2](https://github.com/user-attachments/assets/5aca1a8f-4de2-442c-a7bd-d765baa8641d)
+
+
+![Untitled Diagram](https://github.com/user-attachments/assets/ce221e5d-7b1c-41f2-b944-b7e6fa45f33c)
+
 
 > The image represents the key pillars of the project - (Genomics, Bioinformatics, Clinical Focus and Research), through clear icons and labels. It visually reflects the project's aim: developing an automated NGS somatic variant analysis pipeline for cancer genomics, integrating molecular data with clinical and computational insights.
 
